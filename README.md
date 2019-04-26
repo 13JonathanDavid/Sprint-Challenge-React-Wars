@@ -26,11 +26,13 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-- [ ] What does it mean to _think_ in react?
+- [ ] What does it mean to _think_ in react? Understand what a constructor is.
 
-- [ ] Describe state.
+It also means to design your program to the contraints and features of react. That is designing component information flow with props and states.
 
-- [ ] Describe props.
+- [ ] Describe state. Keeps track of information in a component liable to change used to keep track of what is outputed
+
+- [ ] Describe props. Keeps track of information used by the component that comes from it's parent and is passed down.
 
 ## Project Set Up
 
